@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\bin\Debug\net6.0\uniqueNumber.exe
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\bin\Debug\net6.0\uniqueNumber.deps.json
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\bin\Debug\net6.0\uniqueNumber.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\bin\Debug\net6.0\uniqueNumber.dll
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\bin\Debug\net6.0\uniqueNumber.pdb
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.dll
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\refint\uniqueNumber.dll
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.pdb
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\uniqueNumber.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\uniqueNumber\uniqueNumber\obj\Debug\net6.0\ref\uniqueNumber.dll
